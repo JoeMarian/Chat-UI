@@ -31,15 +31,15 @@ A modern, intuitive user interface for process planning software that integrates
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v22.14.0 or later)
-- npm (v10.9.2 or later)
+- Node.js (v18.20.8 or later)
+- npm (v10.8.2 or later)
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/process-planning-software.git
-cd process-planning-software
+git clone https://github.com/JoeMarian/Chat-UI.git
+cd Chat-UI
 ```
 
 2. Install dependencies:
@@ -64,7 +64,7 @@ src/
 ├── types/             # TypeScript type definitions
 ├── styles/            # Global styles and theme
 ├── utils/             # Utility functions
-└── assets/            # Static assets
+└── assets/           # Static assets
 ```
 
 ## Technologies Used
